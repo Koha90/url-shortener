@@ -1,0 +1,11 @@
+# Folders
+.vscode
+.idea
+bin
+config
+
+# Files
+.env
+config.yaml
+config.yml
+config.toml
