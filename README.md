@@ -3,6 +3,8 @@
 ## Dependencies
 
 - Go version 1.21
+- cleanenv by ilyakaznacheev
+- chi version 4
 
 ## Setup
 
