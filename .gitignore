@@ -2,10 +2,13 @@
 .vscode
 .idea
 bin
-config
 
 # Files
+local.env
 .env
 config.yaml
 config.yml
 config.toml
+
+# Storage
+/storage/storage.db
