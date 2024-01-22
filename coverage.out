@@ -1,0 +1,14 @@
+mode: set
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:35.64,36.54 1 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:36.54,47.17 5 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:47.17,53.4 3 0
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:55.3,57.53 2 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:57.53,65.4 4 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:67.3,68.18 2 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:68.18,70.4 1 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:73.3,74.43 2 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:74.43,80.4 3 0
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:81.3,81.17 1 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:81.17,87.4 3 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:89.3,91.26 2 1
+github.com/koha90/url-shortener/internal/http-server/handlers/url/save/save.go:95.71,100.2 1 1
